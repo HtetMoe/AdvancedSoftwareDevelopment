@@ -1,0 +1,17 @@
+Context Class - use the strategy to perform actions.
+
+1) What's strategy pattern?
+=> define a family of algorithms, encapsulate each one in a separate class,
+ and make them interchangeable at runtime, enabling flexible and dynamic selection of the algorithm to use.
+
+----------------------------
+ 2) What's observer pattern?
+ => The Observer Pattern is a design pattern where an object (subject) notifies
+  a list of dependent objects (observers) of any changes to its state,
+  allowing the observers to react automatically.
+
+  This pattern is commonly used to implement distributed event handling systems.
+
+ => Subject: Maintains a list of observers and notifies them of any state changes.
+ => Observer: Defines an update() method, which gets called when the subject changes.
+ => ConcreteObserver: Implements the Observer interface and reacts to updates from the subject.

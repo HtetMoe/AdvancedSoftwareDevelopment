@@ -1,0 +1,8 @@
+Scenario:
+Imagine a basic Coffee class that can have additional features like milk, sugar, or whipped cream added to it using decorators.
+
+Components of the Decorator Pattern:
+=> Component: An interface or abstract class (Coffee) that defines the behavior.
+=> Concrete Component: A class that implements the component interface (SimpleCoffee).
+=> Decorator: An abstract class that implements the component interface and has a reference to a component object (CoffeeDecorator).
+=> Concrete Decorators: Classes that extend the decorator class to add functionality (MilkDecorator, SugarDecorator).
