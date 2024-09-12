@@ -1,0 +1,13 @@
+How the Factory Method Pattern Works Here:
+=> Abstract Creator (PizzaStore): Defines the factory method createPizza()
+that is used by the orderPizza() method.
+
+=> Concrete Creators (NYStylePizzaStore, ChicagoStylePizzaStore):
+ Implement the factory method to create specific types of pizzas.
+
+=> Products (Pizza and its subclasses):
+ Represent different types of pizzas that can be created.
+
+=> Client Code: Uses the PizzaStore subclasses to order pizzas,
+ without needing to know the exact pizza creation logic.
+

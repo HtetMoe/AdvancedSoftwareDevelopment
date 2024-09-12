@@ -1,0 +1,12 @@
+Pros:
+	•	Can easily switch product families by changing the factory.
+	•	Keeps product families consistent.
+
+Cons:
+	•	More complexity due to the multiple abstract products and factories.
+
+	Steps:
+    	•	Define an abstract product for each product family.
+    	•	Define concrete product classes for each family.
+    	•	Create an abstract factory with methods for creating each type of product.
+    	•	Implement concrete factories for different families.

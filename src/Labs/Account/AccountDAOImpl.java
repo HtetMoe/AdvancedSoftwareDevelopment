@@ -1,0 +1,35 @@
+package Labs.Account;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+// This is a placeholder for the actual database connection and logic
+public class AccountDAOImpl implements AccountDAO {
+	Collection<Account> accountlist = new ArrayList<>();
+
+	public void saveAccount(Account account) {
+		accountlist.add(account); // add the new
+	}
+
+	public void updateAccount(Account account) {
+		Account accountexist = loadAccount(account.getAccountNumber());
+		if (accountexist != null) {
+			accountlist.remove(accountexist); // remove the old
+			accountlist.add(account); // add the new
+		}
+	}
+
+	public Account loadAccount(String accountNumber) {
+		for (Account account : accountlist) {
+			if (account.getAccountNumber() == accountNumber) {
+				return account;
+			}
+		}
+		return null;
+	}
+
+	public Collection<Account> getAccounts() {
+		return accountlist;
+	}
+
+}

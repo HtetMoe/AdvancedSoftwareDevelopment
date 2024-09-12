@@ -1,9 +1,9 @@
 package L1_StrategyPattern;
 
-public class Context {
-    //Polymorphism is applied here
-    private Strategy strategy; // Composition
+import L1_StrategyPattern.strategy.Strategy;
 
+public class Context {
+    private Strategy strategy; // Composition
 
     public Context(Strategy strategy) { // The Strategy type is polymorphic
         this.strategy = strategy; // delegation

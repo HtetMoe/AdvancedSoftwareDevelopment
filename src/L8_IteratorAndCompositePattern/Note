@@ -1,0 +1,8 @@
+Summary:
+
+	•	Iterator Pattern: Provides a way to access elements of a collection sequentially
+	    without exposing the underlying representation.
+
+	•	Composite Pattern: Composes objects into tree structures to represent part-whole
+	    hierarchies. It allows clients to treat individual objects and compositions of objects
+	    uniformly.

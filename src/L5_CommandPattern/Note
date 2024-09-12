@@ -1,0 +1,25 @@
+Steps
+1. Command Interface: Define the interface for commands.
+2. Concrete Command Classes: Implement the Command interface in different concrete classes,
+    each encapsulating specific actions.
+3. Receiver Classes: perform the actual actions when called by the command.
+4. Invoker (Context) Class: The class that triggers the commands, such as a remote control.
+(It doesn’t need to know the specifics of the command, just how to invoke it.)
+5. Client: The client assigns commands to the invoker and triggers actions.
+
+
+fun = transformation
+
+use polymorphism, in Invoker
+=> The invoker calls the execute() method on the Command interface,
+   without knowing the concrete type of the command.
+
+   - oo principle
+   - most de coupling = between the invoker and the receiver
+
+Purpose
+1. 	Decouples the invoker (RemoteControl) from the receiver (Light).
+2.  Extensible: New commands can be added without changing existing code.
+
+	•	Queuing: Allows you to store commands and execute them later or in a specific order.
+	•	Logging: log commands to keeps track of what was executed.

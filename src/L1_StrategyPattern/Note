@@ -1,0 +1,15 @@
+Components of the Strategy Pattern:
+    1. Strategy interface : define a common interface for all strategy
+    2. Concrete strategy classes : implement the interface in different concrete classes
+    3. Context class : uses the strategy and delegates behavior to the chosen strategy at runtime.
+    4. client : Chooses and sets the strategy in the context.
+
+Purpose
+   => used when you need to define a family of algorithms or behaviors,
+      and you want to switch between them dynamically at runtime.
+
+  Note
+  - it allows you to choose the algorithm at runtime dynamically. here what does it mean dynamically?
+  => during the execution of the program (while the program is running.)
+
+

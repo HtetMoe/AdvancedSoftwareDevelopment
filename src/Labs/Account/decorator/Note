@@ -1,0 +1,11 @@
+=> Component: InterestStrategy interface,
+ which defines the method to calculate interest.
+
+=> Concrete Components: SavingsInterestStrategy and
+CheckingsInterestStrategy, which implement the InterestStrategy interface.
+
+=> Decorator: An abstract class, InterestPromotionDecorator,
+that implements the InterestStrategy and wraps another InterestStrategy.
+
+=> Concrete Decorators: P1Decorator, P2Decorator, and P3Decorator,
+ which add 1%, 2%, and 3% promotional interest rates, respectively.

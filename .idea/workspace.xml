@@ -5,7 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58e1a8f2-b0f3-4b9c-98e3-052da8694ce2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_logging_log4j_1_2_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_logging_log4j_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/FM_PizzaStore/PepperoniPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ASD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L1_StrategyPattern/ConcreteStrategyA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L1_StrategyPattern/strategy/ConcreteStrategyA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L1_StrategyPattern/ConcreteStrategyB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L1_StrategyPattern/strategy/ConcreteStrategyB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L1_StrategyPattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L1_StrategyPattern/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L1_StrategyPattern/MainStrategyPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L1_StrategyPattern/MainStrategyPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L1_StrategyPattern/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L1_StrategyPattern/strategy/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/ConcreteObserver1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/observer/ConcreteObserver1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/ConcreteObserver2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/observer/ConcreteObserver2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/ConcreteSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/subject/ConcreteSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/ObserverPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/ObserverPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/subject/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L3_DecoratorPattern/Note" beforeDir="false" afterPath="$PROJECT_DIR$/src/L3_DecoratorPattern/Note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L3_DecoratorPattern/decorators/MilkDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L3_DecoratorPattern/decorators/MilkDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/AccountDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/AccountDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/AccountDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/AccountEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/AccountEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/observer.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/observer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/observer/concreteObservers/AccountObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/observer/concreteObservers/AccountObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/observer/concreteObservers/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/observer/concreteObservers/EmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/observer/concreteObservers/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/observer/concreteObservers/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/observer/concreteObservers/SMSSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/observer/concreteObservers/SMSSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/observer/subject/AccountSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/observer/subject/AccountSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/observer/subject/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/observer/subject/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/strategy/CheckingsInterestStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/strategy/CheckingsInterestStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/strategy/InterestStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/strategy/InterestStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/Strategy_and_Observer_patterns/strategy/SavingsInterestStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/Account/strategy/SavingsInterestStrategy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +59,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HtetMoe&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HtetMoe/AdvancedSoftwareDevelopment.git&quot;,
+    &quot;accountId&quot;: &quot;9d94785d-78b3-4a79-916f-15aca13e2f51&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -32,40 +80,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Application.executor": "Run",
-    "Application.MainDecoratorPattern.executor": "Run",
-    "Application.MainObserverPattern.executor": "Run",
-    "Application.ObserverPatternDemo.executor": "Run",
-    "Application.WeatherStation.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "develop-hmp",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/htetmoephyu/Downloads/ASD/ASD-Moe/ASD/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbstractFactoryDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactoryMethodDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L6_AdapterAndFacade.AdapterPattern.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L7_TemplateMethodPattern.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L8_IteratorAndCompositePattern.CompositePattern.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.L8_IteratorAndCompositePattern.IteratorPattern.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MainDecoratorPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainObserverPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObserverPatternDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleFactoryDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeatherStation.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop-hmp&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/htetmoephyu/Downloads/ASD/ASD-Moe/ASD&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/htetmoephyu/Downloads/ASD/ASD-Moe/ASD/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.32413793&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Labs/Lab1" />
-      <recent name="$PROJECT_DIR$/src/L2_ObserverPattern/OP2" />
-      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/L5_CommandPattern" />
+      <recent name="$PROJECT_DIR$/src/L4_FactoryPattern" />
+      <recent name="$PROJECT_DIR$/src/L4_FactoryPattern/AbstractFactory/AF_Furniture" />
+      <recent name="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern" />
+      <recent name="$PROJECT_DIR$/src/L4_FactoryPattern/SimpleFactory" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Labs.Account" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainDecoratorPattern">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Labs.Strategy_and_Observer_patterns.Application" />
+  <component name="RunManager" selected="Application.L8_IteratorAndCompositePattern.CompositePattern.Main">
+    <configuration name="L6_AdapterAndFacade.AdapterPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L6_AdapterAndFacade.AdapterPattern.Main" />
       <module name="ASD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Labs.Strategy_and_Observer_patterns.*" />
+          <option name="PATTERN" value="L6_AdapterAndFacade.AdapterPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainDecoratorPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L3_DecoratorPattern.MainDecoratorPattern" />
+    <configuration name="L7_TemplateMethodPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L7_TemplateMethodPattern.Main" />
       <module name="ASD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L3_DecoratorPattern.*" />
+          <option name="PATTERN" value="L7_TemplateMethodPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainObserverPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2_ObserverPattern.Weather.MainObserverPattern" />
+    <configuration name="L8_IteratorAndCompositePattern.CompositePattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L8_IteratorAndCompositePattern.CompositePattern.Main" />
       <module name="ASD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L2_ObserverPattern.Weather.observers.*" />
+          <option name="PATTERN" value="L8_IteratorAndCompositePattern.CompositePattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObserverPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2_ObserverPattern.OP1.ObserverPatternDemo" />
+    <configuration name="L8_IteratorAndCompositePattern.IteratorPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L8_IteratorAndCompositePattern.IteratorPattern.Main" />
       <module name="ASD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L2_ObserverPattern.OP1.*" />
+          <option name="PATTERN" value="L8_IteratorAndCompositePattern.IteratorPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2_ObserverPattern.WeatherStation" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labs.AdapterPattern.Main" />
       <module name="ASD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L2_ObserverPattern.*" />
+          <option name="PATTERN" value="Labs.AdapterPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainDecoratorPattern" />
-        <item itemvalue="Application.MainObserverPattern" />
-        <item itemvalue="Application.Application" />
-        <item itemvalue="Application.WeatherStation" />
-        <item itemvalue="Application.ObserverPatternDemo" />
+        <item itemvalue="Application.L8_IteratorAndCompositePattern.CompositePattern.Main" />
+        <item itemvalue="Application.L8_IteratorAndCompositePattern.IteratorPattern.Main" />
+        <item itemvalue="Application.L7_TemplateMethodPattern.Main" />
+        <item itemvalue="Application.L6_AdapterAndFacade.AdapterPattern.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +226,20 @@
       <workItem from="1725467352511" duration="4137000" />
       <workItem from="1725475416743" duration="8937000" />
       <workItem from="1725490662755" duration="6294000" />
-      <workItem from="1725548304332" duration="1763000" />
+      <workItem from="1725548304332" duration="7949000" />
+      <workItem from="1725596548207" duration="939000" />
+      <workItem from="1725625626981" duration="49000" />
+      <workItem from="1725636051740" duration="10572000" />
+      <workItem from="1725675945368" duration="17607000" />
+      <workItem from="1725814469139" duration="3357000" />
+      <workItem from="1725828300803" duration="21309000" />
+      <workItem from="1725933080302" duration="5000" />
+      <workItem from="1725984887262" duration="13728000" />
+      <workItem from="1726060589407" duration="1224000" />
+      <workItem from="1726062140782" duration="96000" />
+      <workItem from="1726068762567" duration="8455000" />
+      <workItem from="1726147090285" duration="1840000" />
+      <workItem from="1726159417558" duration="10246000" />
     </task>
     <servers />
   </component>

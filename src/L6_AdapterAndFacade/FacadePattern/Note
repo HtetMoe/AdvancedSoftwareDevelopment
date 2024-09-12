@@ -1,0 +1,8 @@
+The Facade Pattern provides a simplified interface to a complex subsystem.
+It makes a system easier to use by hiding the complexity behind a simple interface.
+
+Components:
+	1.	Subsystem Classes: These are the classes that perform the complex operations.
+	2.	Facade: The simplified interface that interacts with the subsystem classes and
+	    hides their complexity.
+	3.	Client: The entity that uses the facade to interact with the subsystems.

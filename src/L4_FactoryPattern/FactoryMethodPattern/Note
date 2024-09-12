@@ -1,0 +1,20 @@
+Step-by-Step:
+
+1. Define an Animal interface with a speak() method.
+2. Implement Animal in Dog and Cat classes.
+3. Define an abstract AnimalFactory with an abstract createAnimal() method and
+   a concrete describeAnimal() method that uses the product.
+4. Create DogFactory and CatFactory that extend AnimalFactory and implement createAnimal().
+5. Use the factories in the client code to create and describe animals.
+
+Pros:
+	•	Flexibility to add new products without modifying the existing factory.
+Cons:
+	•	More complex due to the need for inheritance.
+
+Steps:
+	•	Create an abstract product.
+	•	Create concrete products.
+	•	Define an abstract factory class that contains the factory method.
+	•	Subclasses of the factory decide which object to create.
+

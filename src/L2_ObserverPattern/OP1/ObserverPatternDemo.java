@@ -1,5 +1,9 @@
 package L2_ObserverPattern.OP1;
 
+import L2_ObserverPattern.OP1.observer.ConcreteObserver1;
+import L2_ObserverPattern.OP1.observer.ConcreteObserver2;
+import L2_ObserverPattern.OP1.subject.ConcreteSubject;
+
 //creating a subject and multiple observers, and changing the subject’s state.
 public class ObserverPatternDemo {
     public static void main(String[] args) {

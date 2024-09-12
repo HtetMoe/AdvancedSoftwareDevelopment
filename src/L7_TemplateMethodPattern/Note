@@ -1,0 +1,18 @@
+Summary:
+	•	The Template Method is defined in the base class (Game).
+	•	Subclasses (Chess, Football) implement specific steps of the algorithm.
+
+Purpose
+=> This pattern defines the skeleton of an algorithm in a method, deferring some steps to subclasses.
+
+Components:
+	1.	Template (Abstract Class): Defines the skeleton of the algorithm with the template method.
+	2.	Concrete Classes: Implement the abstract steps of the algorithm.
+	3.	Template Method: Provides the fixed algorithm structure while allowing subclasses to implement the steps.
+
+	final to template method
+	- this mean that subclasses cannot override this method.
+
+	protected method ( for step methods)
+	- This allows subclasses to override these methods
+	  while preventing access to them by other classes.

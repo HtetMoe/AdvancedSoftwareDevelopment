@@ -1,0 +1,17 @@
+Product => Car
+Concrete Products => Tesla, Toyota
+
+1. Define a Car interface with a method drive().
+2. Implement Car in BMW and Tesla classes.
+3. Create CarFactory with a static createCar() method that returns a Car based on input.
+4. In the client code, use CarFactory to create and use different car objects.
+
+Steps:
+	•	Define a factory class with a method that returns objects.
+	•	Use conditional logic to create different objects.
+
+Pros:
+	•	Centralized object creation.
+Cons:
+	•	Uses conditionals or switch statements, which can make it harder to extend.
+

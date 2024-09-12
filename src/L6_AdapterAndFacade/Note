@@ -1,0 +1,12 @@
+Summary:
+	•	Adapter Pattern: Used to bridge two incompatible interfaces
+	    (e.g., converting VGA to HDMI).
+	•	Facade Pattern: Provides a simplified interface to a complex subsystem
+	    (e.g., starting a computer system).
+
+Both patterns help in making the system easier to work with by hiding complexity or
+adapting interfaces.
+
+Summary:
+	•	Object Adapter uses composition, is more flexible, and can adapt multiple classes.
+	•	Class Adapter uses inheritance and is limited to a single class.

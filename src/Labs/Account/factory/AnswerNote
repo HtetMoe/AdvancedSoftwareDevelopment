@@ -1,0 +1,8 @@
+The Factory pattern solves the problem by:
+
+=> Easy Environment Switching: Change environments (test vs. production)
+   without modifying service classes.
+=> Centralized Creation: Manages object creation in one place,
+   simplifying maintenance.
+=> Extensible: Add new DAO types without changing existing code, enhancing flexibility,
+   adhering to the Open-Closed Principle.

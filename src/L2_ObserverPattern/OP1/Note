@@ -1,0 +1,8 @@
+ Components of the Observer Pattern:
+        1. Observer Interface: Define the interface for observers, typically with an update() method.
+        2. Concrete Observer Classes: Implement the Observer interface to define how each observer
+           responds to updates.
+        3. Subject Interface: Define the subject interface with methods to register, remove, and notify observers.
+        4. Concrete Subject Class: Implement the subject interface to maintain a list of observers and
+           notify them when its state changes.
+        5. Client: Create the subject and observers, register them, and trigger updates by changing the subject’s state.
