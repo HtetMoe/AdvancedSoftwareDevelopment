@@ -27,6 +27,7 @@ public class Main {
         //command objects
         Command lightOn  = new LightOnCommand(livingRoomLight);
         Command lightOff = new LightOffCommand(livingRoomLight);
+
         Command fanOn    = new FanOnCommand(ceilingFan);
 
         //invoker
@@ -37,16 +38,16 @@ public class Main {
         remote.pressButton();
 
         //turn the light off
-        remote.setCommand(lightOff);
-        remote.pressButton();
-
-        //turn the fun on
-        remote.setCommand(fanOn);
-        remote.pressButton();
-
+//        remote.setCommand(lightOff);
+//        remote.pressButton();
+//
+//        //turn the fun on
+//        remote.setCommand(fanOn);
+//        remote.pressButton();
+//
         remote.showHistory();
 
-        //undo last operation
-        remote.pressUndo();
+//        //undo last operation
+//        remote.pressUndo();
     }
 }

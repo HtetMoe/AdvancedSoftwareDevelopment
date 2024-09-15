@@ -29,7 +29,7 @@ public class RemoteControl {
 
     // Log all executed commands
     public void showHistory() {
-        System.out.println("Command History:");
+        //System.out.println("Command History:");
         for (Command cmd : commandHistory) {
             System.out.println(cmd.getClass().getSimpleName());
         }

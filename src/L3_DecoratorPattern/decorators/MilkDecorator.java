@@ -16,6 +16,6 @@ public class MilkDecorator extends CoffeeDecorator{
 
     @Override
     public String getDescription() {
-        return super.getDescription() + ", milk";
+        return STR."\{super.getDescription()}, milk";
     }
 }

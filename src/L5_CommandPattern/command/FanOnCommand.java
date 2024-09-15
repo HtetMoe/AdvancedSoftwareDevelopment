@@ -19,6 +19,6 @@ public class FanOnCommand implements Command{ //2. implement command
 
     @Override
     public void undo() {
-        fan.on();
+        fan.off();
     }
 }

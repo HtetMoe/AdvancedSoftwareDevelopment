@@ -10,6 +10,6 @@ public class ConcreteObserver2 implements Observer {
     }
 
     public void display() {
-        System.out.println("ConcreteObserver2 display: " + state);
+        System.out.println(STR."ConcreteObserver2 display: \{state}");
     }
 }

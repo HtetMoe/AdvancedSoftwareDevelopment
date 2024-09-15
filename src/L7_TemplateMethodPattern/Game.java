@@ -2,6 +2,7 @@ package L7_TemplateMethodPattern;
 
 //Template Abstract class
 public abstract class Game {
+
     // Template method
     public final void play() {
         start();
@@ -13,7 +14,8 @@ public abstract class Game {
     protected abstract void start();
     protected abstract void playTurn();
     protected abstract void end();
-    public void hook(){
 
+    public void hook(){
+        //do nth
     }
 }
