@@ -5,7 +5,7 @@ import L8_IteratorAndCompositePattern.CompositePattern.component.Employee;
 import java.util.ArrayList;
 import java.util.List;
 
-// Composite
+// Composite - can contain manager and employee
 public class CompanyDirectory implements Employee {
     private List<Employee> employeeList = new ArrayList<>();
 
@@ -18,9 +18,9 @@ public class CompanyDirectory implements Employee {
     }
 
     @Override
-    public void showEmployeeDetails() {
+    public void showDetails() {
         for (Employee emp : employeeList) {
-            emp.showEmployeeDetails();
+            emp.showDetails(); // Recursive call for each item
         }
     }
 }

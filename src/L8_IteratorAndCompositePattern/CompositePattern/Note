@@ -2,9 +2,21 @@ Composite Pattern Components:
 
 	1.	Component: Common interface for all objects in the composition (both individual and
 	    composite objects). This can include methods like add(), remove(), and display().
-	2.	Leaf: Implements the Component interface. Represents individual objects in
-	    the composition.
+	2.	Leaf: Represents individual objects in the composition.
 	3.	Composite: Implements the Component interface and stores child components
 	    (both Leaf and other Composite objects).
 	4.	Client: Uses the Component interface to interact with objects in the composition,
 	    treating both individual objects (leaves) and groups of objects (composites) uniformly.
+
+	    aly bank
+	    composite and visitor
+
+
+	purpose
+	- to treat individual objects and groups of objects (composites) uniformly.
+
+	 Benefits:
+     	•	Simplifies code by treating objects and groups of objects uniformly.
+     	•	Makes it easier to work with complex hierarchical structures.
+     	•	Supports easy addition of new components without altering existing code.
+

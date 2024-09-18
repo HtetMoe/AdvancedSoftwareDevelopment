@@ -5,63 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58e1a8f2-b0f3-4b9c-98e3-052da8694ce2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/L9_StatePattern/states/State.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L1_StrategyPattern/MainStrategyPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L1_StrategyPattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/ObserverPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/StatisticsDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/observer/ConcreteObserver1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/observer/ConcreteObserver1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/observer/ConcreteObserver2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/observer/ConcreteObserver2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/subject/ConcreteSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L2_ObserverPattern/OP1/subject/ConcreteSubject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L3_DecoratorPattern/MainDecoratorPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L3_DecoratorPattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L3_DecoratorPattern/decorators/MilkDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L3_DecoratorPattern/decorators/MilkDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/AbstractFactory/AF_Furniture/AbstractFactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/AF_Furniture/AbstractFactoryDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/AbstractFactory/AF_Furniture/Note" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/AF_Furniture/Note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/AbstractFactory/AF_Furniture/factory/FurnitureFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/AF_Furniture/factory/FurnitureFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/AbstractFactory/AF_Furniture/factory/ModernFurnitureFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/AF_Furniture/factory/ModernFurnitureFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/AbstractFactory/AF_Furniture/factory/VictorianFurnitureFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/AF_Furniture/factory/VictorianFurnitureFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/AbstractFactory/AF_Furniture/products/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/AF_Furniture/products/Chair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/AbstractFactory/AF_Furniture/products/ModernChair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/AF_Furniture/products/ModernChair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/AbstractFactory/AF_Furniture/products/ModernSofa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/AF_Furniture/products/ModernSofa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/AbstractFactory/AF_Furniture/products/Sofa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/AF_Furniture/products/Sofa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/AbstractFactory/AF_Furniture/products/VictorianChair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/AF_Furniture/products/VictorianChair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/AbstractFactory/AF_Furniture/products/VictorianSofa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/AF_Furniture/products/VictorianSofa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethod/product/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethod/product/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethod/product/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/FM_PizzaStore/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FM_PizzaStore_FM/CheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/FM_PizzaStore/Note" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FM_PizzaStore_FM/Note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/FM_PizzaStore/PepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FM_PizzaStore_FM/PepperoniPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/FM_PizzaStore/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FM_PizzaStore_FM/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/FM_PizzaStore/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FM_PizzaStore_FM/PizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/FM_PizzaStore/PizzaStoreDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FM_PizzaStore_FM/PizzaStoreDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/FM_PizzaStore/creator/ChicagoStylePizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FM_PizzaStore_FM/creator/ChicagoStylePizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/FM_PizzaStore/creator/NYStylePizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FM_PizzaStore_FM/creator/NYStylePizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/FactoryMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethod/FactoryMethodDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/Note" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethod/Note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/creators/AnimalFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethod/creators/AnimalFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/creators/CatFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethod/creators/CatFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern/creators/DogFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethod/creators/DogFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/SimpleFactory/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/SimpleFactory/CarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L4_FactoryPattern/SimpleFactory/SimpleFactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L4_FactoryPattern/SimpleFactory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L5_CommandPattern/Invoker/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L5_CommandPattern/Invoker/RemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L5_CommandPattern/client/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L5_CommandPattern/client/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L5_CommandPattern/command/FanOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L5_CommandPattern/command/FanOnCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L6_AdapterAndFacade/AdapterPattern/ClassAdapter/VgaToHdmiClassAdapter1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L6_AdapterAndFacade/AdapterPattern/ClassAdapter/VgaToHdmiClassAdapter1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L6_AdapterAndFacade/AdapterPattern/HdmiDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L6_AdapterAndFacade/AdapterPattern/ObjectAdapter/target/HdmiDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L6_AdapterAndFacade/AdapterPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L6_AdapterAndFacade/AdapterPattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L6_AdapterAndFacade/AdapterPattern/Note" beforeDir="false" afterPath="$PROJECT_DIR$/src/L6_AdapterAndFacade/AdapterPattern/Note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L6_AdapterAndFacade/AdapterPattern/VgaDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L6_AdapterAndFacade/AdapterPattern/ObjectAdapter/adaptee/VgaDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L6_AdapterAndFacade/AdapterPattern/VgaToHdmiAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L6_AdapterAndFacade/AdapterPattern/ObjectAdapter/adapter/Adapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L7_TemplateMethodPattern/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L7_TemplateMethodPattern/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPattern/Aggregate/Container.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPattern/Aggregate/NameRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPattern/Iterator/NameIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPattern/Note" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPatternArrayAndList/Iterator/ArrayIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPattern/Iterator/ArrayIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPatternArrayAndList/Iterator/Iterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPatternArrayAndList/Iterator/ListIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPattern/Iterator/ListIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPatternArrayAndList/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/Note" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/Note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/component/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/component/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/component/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/component/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/component/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/component/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/composite/CompanyDirectory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/composite/CompanyDirectory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -105,12 +57,16 @@
     "Application.AbstractFactoryDemo.executor": "Run",
     "Application.Application.executor": "Run",
     "Application.FactoryMethodDemo.executor": "Run",
+    "Application.L10_ProxyPattern.Main.executor": "Run",
+    "Application.L11_VisitorPattern.Main.executor": "Run",
     "Application.L3_DecoratorPattern.Main.executor": "Run",
     "Application.L5_CommandPattern.client.Main.executor": "Run",
     "Application.L6_AdapterAndFacade.AdapterPattern.Main.executor": "Run",
     "Application.L7_TemplateMethodPattern.Main.executor": "Run",
     "Application.L8_IteratorAndCompositePattern.CompositePattern.Main.executor": "Run",
     "Application.L8_IteratorAndCompositePattern.IteratorPattern.Main.executor": "Run",
+    "Application.Labs.StatePattern.Application.executor": "Run",
+    "Application.Labs.compositePattern.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainDecoratorPattern.executor": "Run",
     "Application.MainObserverPattern.executor": "Run",
@@ -140,23 +96,23 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Labs" />
+      <recent name="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/professorExample" />
       <recent name="$PROJECT_DIR$/src/L5_CommandPattern" />
       <recent name="$PROJECT_DIR$/src/L4_FactoryPattern" />
       <recent name="$PROJECT_DIR$/src/L4_FactoryPattern/AbstractFactory/AF_Furniture" />
-      <recent name="$PROJECT_DIR$/src/L4_FactoryPattern/FactoryMethodPattern" />
-      <recent name="$PROJECT_DIR$/src/L4_FactoryPattern/SimpleFactory" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Labs.Account" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L3_DecoratorPattern.Main">
-    <configuration name="L3_DecoratorPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L3_DecoratorPattern.Main" />
+  <component name="RunManager" selected="Application.L10_ProxyPattern.Main">
+    <configuration name="L10_ProxyPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L10_ProxyPattern.Main" />
       <module name="ASD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L3_DecoratorPattern.*" />
+          <option name="PATTERN" value="L10_ProxyPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L5_CommandPattern.client.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L5_CommandPattern.client.Main" />
+    <configuration name="L11_VisitorPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L11_VisitorPattern.Main" />
       <module name="ASD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L5_CommandPattern.client.*" />
+          <option name="PATTERN" value="L11_VisitorPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L8_IteratorAndCompositePattern.IteratorPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L8_IteratorAndCompositePattern.IteratorPattern.Main" />
+    <configuration name="Labs.StatePattern.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labs.StatePattern.Application" />
       <module name="ASD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L8_IteratorAndCompositePattern.IteratorPattern.*" />
+          <option name="PATTERN" value="Labs.StatePattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,11 +160,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L2_ObserverPattern.OP1.Main" />
+      <option name="MAIN_CLASS_NAME" value="L9_StatePattern.Main" />
       <module name="ASD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L2_ObserverPattern.OP1.*" />
+          <option name="PATTERN" value="L9_StatePattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L3_DecoratorPattern.Main" />
-        <item itemvalue="Application.L5_CommandPattern.client.Main" />
+        <item itemvalue="Application.L10_ProxyPattern.Main" />
+        <item itemvalue="Application.L11_VisitorPattern.Main" />
+        <item itemvalue="Application.Labs.StatePattern.Application" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.L8_IteratorAndCompositePattern.CompositePattern.Main" />
-        <item itemvalue="Application.L8_IteratorAndCompositePattern.IteratorPattern.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -263,6 +219,11 @@
       <workItem from="1726147090285" duration="1840000" />
       <workItem from="1726159417558" duration="13031000" />
       <workItem from="1726207764177" duration="43076000" />
+      <workItem from="1726412709345" duration="6939000" />
+      <workItem from="1726514339994" duration="7865000" />
+      <workItem from="1726540056565" duration="4931000" />
+      <workItem from="1726589889956" duration="17984000" />
+      <workItem from="1726675167849" duration="2241000" />
     </task>
     <servers />
   </component>

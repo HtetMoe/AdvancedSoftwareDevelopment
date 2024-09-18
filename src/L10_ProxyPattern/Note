@@ -1,0 +1,26 @@
+=> commonly used for access control, lazy initialization, or logging.
+
+Explanation:
+
+	•	Subject Interface (Image): Defines the interface both the real object and proxy must implement.
+	•	RealSubject (RealImage): The actual object that performs the operation (e.g., loading and
+	    displaying the image).
+	•	Proxy (ProxyImage): Acts as a surrogate to the RealImage, handling the lazy loading of the
+	    image when necessary.
+	•	Client: Uses the ProxyImage to access the RealImage. The proxy controls when the real object
+	    is loaded and displayed.
+
+
+Purpose:
+	•	Lazy Initialization: The RealImage is loaded only when it’s actually needed, not at the creation
+	    of the proxy.
+
+	    proxy = a person holding authority to act for another
+	    eg.  a written paper giving a person such authority
+
+	    feb 2001
+	    java
+	    EA
+	    military service routine
+
+	    tackle for tomorrow

@@ -12,7 +12,7 @@ public class Developer implements Employee{
     }
 
     @Override
-    public void showEmployeeDetails() {
+    public void showDetails() {
         System.out.println(STR."\{empId}, \{name}");
     }
 

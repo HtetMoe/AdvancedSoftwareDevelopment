@@ -1,0 +1,16 @@
+Explanation:
+
+	1.	Element Interface (Element): Declares the accept() method that accepts a visitor.
+	2.	Concrete Elements (Book and Fruit): These are the objects that will be “visited.” They each
+	    implement the accept() method, allowing a visitor to perform operations on them.
+	3.	Visitor Interface (Visitor): Defines the visiting methods for each concrete element.
+	4.	Concrete Visitor (PrintVisitor): Implements the Visitor interface and defines specific
+	    operations for each element (e.g., printing their information).
+	5.	Client Code: The client creates elements and a visitor, then applies the visitor to each
+	    element by calling accept().
+
+Purpose:
+
+	•	The Visitor Pattern lets you add new operations to objects without modifying their structure.
+	    For example, you can add more visitors (like a PricingVisitor or ExportVisitor) without
+	    changing the element classes (Book, Fruit), maintaining flexibility and separation of concerns.

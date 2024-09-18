@@ -1,0 +1,15 @@
+Explanation:
+
+	•	State Interface: Defines a common interface for different states.
+	•	Concrete States: Implement the State interface with specific behavior.
+	•	Context Class: Maintains a reference to a State object and delegates requests to it.
+	•	Client Code: Creates a Context object, sets its state, and makes requests to demonstrate
+	    changing behavior based on the current state.
+
+purpose
+ - enables an object to alter its behavior when its state changes, avoiding complex conditionals.
+
+ Real-world Analogy:
+
+   A traffic light changes its behavior based on its current light (red, yellow, green),
+   adapting actions according to the state.

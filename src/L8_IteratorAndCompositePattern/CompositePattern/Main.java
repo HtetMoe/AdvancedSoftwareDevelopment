@@ -7,16 +7,18 @@ import L8_IteratorAndCompositePattern.CompositePattern.composite.CompanyDirector
 // Client
 public class Main {
     public static void main(String[] args) {
-        Developer dev1 = new Developer(101, "John");
-        Developer dev2 = new Developer(102, "Paul");
 
-        Manager man1 = new Manager(201, "George");
+        //leaf objects
+        Developer developer = new Developer(101, "John");
+        Manager manager = new Manager(201, "George");
 
+        //composite object
         CompanyDirectory directory = new CompanyDirectory();
-        directory.addEmployee(dev1);
-        directory.addEmployee(dev2);
-        directory.addEmployee(man1);
 
-        directory.showEmployeeDetails();
+        directory.addEmployee(developer);
+        directory.addEmployee(manager);
+
+        //display all details
+        directory.showDetails();
     }
 }
