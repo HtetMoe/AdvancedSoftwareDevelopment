@@ -9,8 +9,9 @@ public class Main {
 
         //Aggregate
         ArrayRepository arrayRepository = new ArrayRepository();
-        ListRepository listRepository = new ListRepository();
+        ListRepository listRepository   = new ListRepository();
 
+        //iterators
         Iterator arrayIterator = arrayRepository.createIterator();
         Iterator listIterator  = listRepository.createIterator();
 

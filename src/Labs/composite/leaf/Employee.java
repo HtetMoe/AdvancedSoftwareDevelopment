@@ -1,7 +1,10 @@
-package Labs.composite;
+package Labs.composite.leaf;
+
+import Labs.composite.component.Hire;
 
 import java.util.function.Consumer;
 
+//leaf
 public class Employee extends Hire {
 
 	@Override

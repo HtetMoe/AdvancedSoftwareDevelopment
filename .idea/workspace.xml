@@ -5,14 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58e1a8f2-b0f3-4b9c-98e3-052da8694ce2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/L9_StatePattern/states/State.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/Note" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/Note" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/component/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/component/Developer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/component/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/component/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/component/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/component/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/composite/CompanyDirectory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/composite/CompanyDirectory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L10_ProxyPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L10_ProxyPattern/VirtualProxy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L10_ProxyPattern/Note" beforeDir="false" afterPath="$PROJECT_DIR$/src/L10_ProxyPattern/VirtualProxy/Note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L10_ProxyPattern/ProxyImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L10_ProxyPattern/VirtualProxy/ProxyImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L10_ProxyPattern/realSubject/RealImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L10_ProxyPattern/VirtualProxy/RealImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L10_ProxyPattern/subject/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L10_ProxyPattern/VirtualProxy/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPattern/aggregate/ListRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/IteratorPattern/aggregate/ListRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L9_StatePattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L9_StatePattern/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L9_StatePattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L9_StatePattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/StatePattern/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/StatePattern/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/StatePattern/CeilingFan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/StatePattern/context/CeilingFan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/StatePattern/concreteStates/HighSpeedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/StatePattern/concreteStates/HighSpeedState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/StatePattern/concreteStates/LowSpeedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/StatePattern/concreteStates/LowSpeedState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/StatePattern/concreteStates/MediumSpeedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/StatePattern/concreteStates/MediumSpeedState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/StatePattern/concreteStates/OffState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/StatePattern/concreteStates/OffState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/StatePattern/concreteStates/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/StatePattern/states/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/StatePattern/states/States.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/composite/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/composite/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/composite/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/composite/leaf/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/composite/Hire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/composite/component/Hire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/composite/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/composite/composite/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Labs/composite/TotalBudgetConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/composite/TotalBudgetConsumer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +71,13 @@
   "keyToString": {
     "Application.AbstractFactoryDemo.executor": "Run",
     "Application.Application.executor": "Run",
+    "Application.Client.executor": "Run",
     "Application.FactoryMethodDemo.executor": "Run",
+    "Application.L10_JavaDynamicProxy.Main.executor": "Run",
+    "Application.L10_ProxyPattern.BankServiceDynamicProxy.Main.executor": "Run",
     "Application.L10_ProxyPattern.Main.executor": "Run",
+    "Application.L10_ProxyPattern.ProtectionProxy.Main.executor": "Run",
+    "Application.L10_ProxyPattern.VirtualProxy.Main.executor": "Run",
     "Application.L11_VisitorPattern.Main.executor": "Run",
     "Application.L3_DecoratorPattern.Main.executor": "Run",
     "Application.L5_CommandPattern.client.Main.executor": "Run",
@@ -65,6 +85,7 @@
     "Application.L7_TemplateMethodPattern.Main.executor": "Run",
     "Application.L8_IteratorAndCompositePattern.CompositePattern.Main.executor": "Run",
     "Application.L8_IteratorAndCompositePattern.IteratorPattern.Main.executor": "Run",
+    "Application.L9_StatePattern.Main.executor": "Run",
     "Application.Labs.StatePattern.Application.executor": "Run",
     "Application.Labs.compositePattern.Main.executor": "Run",
     "Application.Main.executor": "Run",
@@ -91,28 +112,29 @@
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.32413793",
+    "settings.editor.selected.configurable": "JavaScript.Libraries",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/L10_ProxyPattern/JavaDynamicProxy" />
+      <recent name="$PROJECT_DIR$/src/L10_ProxyPattern/VirtualProxy" />
       <recent name="$PROJECT_DIR$/src/Labs" />
       <recent name="$PROJECT_DIR$/src/L8_IteratorAndCompositePattern/CompositePattern/professorExample" />
-      <recent name="$PROJECT_DIR$/src/L5_CommandPattern" />
-      <recent name="$PROJECT_DIR$/src/L4_FactoryPattern" />
-      <recent name="$PROJECT_DIR$/src/L4_FactoryPattern/AbstractFactory/AF_Furniture" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Labs.Account" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.L10_ProxyPattern.Main">
-    <configuration name="L10_ProxyPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L10_ProxyPattern.Main" />
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labs.composite.Application" />
       <module name="ASD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L10_ProxyPattern.*" />
+          <option name="PATTERN" value="Labs.composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L11_VisitorPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L11_VisitorPattern.Main" />
+    <configuration name="L10_ProxyPattern.BankServiceDynamicProxy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L10_ProxyPattern.BankServiceDynamicProxy.Main" />
       <module name="ASD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L11_VisitorPattern.*" />
+          <option name="PATTERN" value="L10_ProxyPattern.BankServiceDynamicProxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L8_IteratorAndCompositePattern.CompositePattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L8_IteratorAndCompositePattern.CompositePattern.Main" />
+    <configuration name="L10_ProxyPattern.ProtectionProxy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L10_ProxyPattern.ProtectionProxy.Main" />
       <module name="ASD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L8_IteratorAndCompositePattern.CompositePattern.*" />
+          <option name="PATTERN" value="L10_ProxyPattern.ProtectionProxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Labs.StatePattern.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Labs.StatePattern.Application" />
+    <configuration name="L10_ProxyPattern.VirtualProxy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L10_ProxyPattern.VirtualProxy.Main" />
       <module name="ASD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Labs.StatePattern.*" />
+          <option name="PATTERN" value="L10_ProxyPattern.VirtualProxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +182,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L9_StatePattern.Main" />
+      <option name="MAIN_CLASS_NAME" value="L10_ProxyPattern.JavaDynamicProxy.Main" />
       <module name="ASD" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L9_StatePattern.*" />
+          <option name="PATTERN" value="L10_ProxyPattern.JavaDynamicProxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L10_ProxyPattern.Main" />
-        <item itemvalue="Application.L11_VisitorPattern.Main" />
-        <item itemvalue="Application.Labs.StatePattern.Application" />
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.L8_IteratorAndCompositePattern.CompositePattern.Main" />
+        <item itemvalue="Application.L10_ProxyPattern.BankServiceDynamicProxy.Main" />
+        <item itemvalue="Application.L10_ProxyPattern.ProtectionProxy.Main" />
+        <item itemvalue="Application.L10_ProxyPattern.VirtualProxy.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -223,11 +245,16 @@
       <workItem from="1726514339994" duration="7865000" />
       <workItem from="1726540056565" duration="4931000" />
       <workItem from="1726589889956" duration="17984000" />
-      <workItem from="1726675167849" duration="2241000" />
+      <workItem from="1726675167849" duration="13913000" />
+      <workItem from="1726825558364" duration="39277000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

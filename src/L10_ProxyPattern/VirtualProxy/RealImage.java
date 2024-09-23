@@ -1,6 +1,4 @@
-package L10_ProxyPattern.realSubject;
-
-import L10_ProxyPattern.subject.Image;
+package L10_ProxyPattern.VirtualProxy;
 
 // Real object that the proxy will represent
 public class RealImage implements Image {

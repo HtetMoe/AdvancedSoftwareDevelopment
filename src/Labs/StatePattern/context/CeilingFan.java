@@ -1,7 +1,7 @@
-package Labs.StatePattern;
+package Labs.StatePattern.context;
 
 import Labs.StatePattern.concreteStates.OffState;
-import Labs.StatePattern.concreteStates.State;
+import Labs.StatePattern.states.State;
 
 //Context class
 public class CeilingFan {

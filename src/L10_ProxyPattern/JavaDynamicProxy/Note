@@ -1,0 +1,5 @@
+Explanation:
+
+	•	Proxy Creation: Proxy.newProxyInstance() generates a proxy object at runtime.
+	•	Invocation Handler: ServiceInvocationHandler adds behavior before and after invoking the actual method on RealService.
+	•	Dynamic Behavior: The proxy object intercepts method calls and provides additional logic dynamically.

@@ -1,0 +1,7 @@
+Explanation:
+
+	1.	FileComponent is the base interface for all components (files and folders).
+	2.	File is a leaf that implements the base component.
+	3.	Folder is a composite that can hold multiple components (both files and other folders).
+	4.	The client interacts with both File and Folder uniformly via the FileComponent interface,
+	    demonstrating the recursive structure of the pattern.

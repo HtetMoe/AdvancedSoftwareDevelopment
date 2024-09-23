@@ -9,6 +9,7 @@ public class Context {
         this.state = state;
     }
 
+    //switch states dynamically
     public void setState(State state) {
         this.state = state; // update state
     }

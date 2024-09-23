@@ -1,6 +1,6 @@
-package Labs.StatePattern.concreteStates;
+package Labs.StatePattern.states;
 
-import Labs.StatePattern.CeilingFan;
+import Labs.StatePattern.context.CeilingFan;
 
 public interface State {
     void pullGreen(CeilingFan fan);

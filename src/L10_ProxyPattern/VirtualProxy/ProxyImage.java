@@ -1,12 +1,11 @@
-package L10_ProxyPattern;
-
-import L10_ProxyPattern.realSubject.RealImage;
-import L10_ProxyPattern.subject.Image;
+package L10_ProxyPattern.VirtualProxy;
 
 // Proxy Class
 public class ProxyImage implements Image {
-    private RealImage realImage;
     private String fileName;
+
+    //reference to the realSubj, so that it can forward requests to subject
+    private RealImage realImage;
 
     public ProxyImage(String fileName) {
         this.fileName = fileName;
@@ -14,9 +13,8 @@ public class ProxyImage implements Image {
 
     @Override
     public void display() {
-        // Lazily initialize RealImage and display it
         if (realImage == null) {
-            realImage = new RealImage(fileName);
+            realImage = new RealImage(fileName);  // Lazy initialization
         }
         realImage.display();
     }

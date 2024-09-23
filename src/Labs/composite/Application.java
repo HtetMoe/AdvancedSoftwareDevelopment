@@ -1,5 +1,8 @@
 package Labs.composite;
 
+import Labs.composite.component.Hire;
+import Labs.composite.composite.Manager;
+
 public class Application {
 	
 	public static void main(String[] args) {

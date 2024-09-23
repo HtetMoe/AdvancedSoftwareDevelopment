@@ -1,6 +1,7 @@
 package Labs.StatePattern.concreteStates;
 
-import Labs.StatePattern.CeilingFan;
+import Labs.StatePattern.context.CeilingFan;
+import Labs.StatePattern.states.State;
 
 public class MediumSpeedState implements State {
     @Override

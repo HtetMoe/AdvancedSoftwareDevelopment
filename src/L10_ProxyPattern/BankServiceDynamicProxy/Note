@@ -1,0 +1,18 @@
+1.	Subject (Interface):
+	•	Common interface for both Real Service and Proxy.
+	•	Defines methods (e.g., withdraw(), deposit()).
+
+	2.	Real Subject:
+	•	The actual implementation of the service.
+	•	Performs real operations (e.g., RealBankService).
+
+	3.	Proxy:
+	•	Controls access to the Real Subject.
+	•	Can add security, logging, or delay object creation (BankServiceProxy).
+
+	=> Invocation Handler : dynamically adds security and logging functionality to method calls.
+
+
+	4.	Client:
+	•	Uses the service via the common interface.
+	•	Doesn’t know whether it interacts with Proxy or Real Subject.

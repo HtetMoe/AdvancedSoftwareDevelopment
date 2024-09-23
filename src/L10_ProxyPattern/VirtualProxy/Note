@@ -1,0 +1,23 @@
+=> commonly used for access control, lazy initialization, or logging.
+
+Explanation:
+
+	•	RealImage  : The actual object that is expensive to create (e.g., loading from disk).
+	•	ProxyImage : The proxy that controls access to the real object,
+	    only loading it when needed (lazy loading).
+	•	Client     : interacts with Image through the proxy, which provides the same interface as
+	    the real object.
+
+
+Purpose:
+	•	Lazy Initialization: The RealImage is loaded only when it’s actually needed, not at the creation
+	    of the proxy.
+
+	    proxy = a person holding authority to act for another
+	    eg.  a written paper giving a person such authority
+
+	    feb 2001
+	    java
+	    EA
+	    military service routine
+	    tackle for tomorrow
